@@ -9,4 +9,6 @@ The TODO list:
 DONE:
 - Twitter feed sentiment analysis wrt stocks using Hive and Hadoop. Also, used Apache Solr to index the feed.
   Used Apache Nifi for flow management.
+
+
 Will upload the code soon.
